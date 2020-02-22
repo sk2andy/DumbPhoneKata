@@ -1,0 +1,17 @@
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/CodingKataTest.deps.json
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/CodingKataTest.runtimeconfig.json
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/CodingKataTest.runtimeconfig.dev.json
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/CodingKataTest.dll
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/CodingKataTest.pdb
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/CodingKata.dll
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/bin/Debug/netcoreapp2.2/CodingKata.pdb
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/obj/Debug/netcoreapp2.2/CodingKataTest.csprojAssemblyReference.cache
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/obj/Debug/netcoreapp2.2/CodingKataTest.csproj.CoreCompileInputs.cache
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/obj/Debug/netcoreapp2.2/CodingKataTest.AssemblyInfoInputs.cache
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/obj/Debug/netcoreapp2.2/CodingKataTest.AssemblyInfo.cs
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/obj/Debug/netcoreapp2.2/CodingKataTest.csproj.CopyComplete
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/obj/Debug/netcoreapp2.2/CodingKataTest.dll
+/Users/skandy/workspace/tmp/CodingKata/CodingKataTest/obj/Debug/netcoreapp2.2/CodingKataTest.pdb
